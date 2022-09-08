@@ -1,0 +1,16 @@
+/* Style Sheet */
+
+.firstBtn, .secondBtn {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', Times, sans-serif;
+}
+
+.firstBtn {
+    background-color: black;
+    color: white;
+}
+
+.secondBtn {
+    background-color: yellow;
+}
+
